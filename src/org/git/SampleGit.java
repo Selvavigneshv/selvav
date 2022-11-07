@@ -13,6 +13,10 @@ public class SampleGit {
 	public void method3() {
    System.out.println("sql");
 	}
+	public void method4() {
+		   System.out.println("API");
+			}
+	
 public static void main(String[] args) {
 	SampleGit s = new SampleGit();
 	s.method1();
